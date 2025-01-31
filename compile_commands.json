@@ -1,0 +1,49 @@
+[{
+  "file": "C:\\Users\\jonat\\Documents\\programmering\\c\\snake\\tests.c",
+  "directory": "C:\\Users\\jonat\\Documents\\programmering\\c\\snake",
+  "command": "C:/msys64/ucrt64/bin/gcc.exe -c C:\\Users\\jonat\\Documents\\programmering\\c\\snake\\tests.c -o C:\\Users\\jonat\\Documents\\programmering\\c\\snake\\tests.c.o -target x86_64-w64-mingw32 -IC:\\msys64\\ucrt64\\include\\c++\\14.1.0 -IC:\\msys64\\ucrt64\\include\\c++\\14.1.0\\x86_64-w64-mingw32 -IC:\\msys64\\ucrt64\\include\\c++\\14.1.0\\backward -IC:\\msys64\\ucrt64\\lib\\gcc\\x86_64-w64-mingw32\\14.1.0\\include -IC:\\msys64\\ucrt64\\include -IC:\\msys64\\ucrt64\\lib\\gcc\\x86_64-w64-mingw32\\14.1.0\\include-fixed -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\jonat\\Documents\\programmering\\c\\snake\\hardware.h",
+  "directory": "C:\\Users\\jonat\\Documents\\programmering\\c\\snake",
+  "command": "C:/msys64/ucrt64/bin/g++.exe -c C:\\Users\\jonat\\Documents\\programmering\\c\\snake\\hardware.h -o C:\\Users\\jonat\\Documents\\programmering\\c\\snake\\hardware.h.o -target x86_64-w64-mingw32 -IC:\\msys64\\ucrt64\\include\\c++\\14.1.0 -IC:\\msys64\\ucrt64\\include\\c++\\14.1.0\\x86_64-w64-mingw32 -IC:\\msys64\\ucrt64\\include\\c++\\14.1.0\\backward -IC:\\msys64\\ucrt64\\lib\\gcc\\x86_64-w64-mingw32\\14.1.0\\include -IC:\\msys64\\ucrt64\\include -IC:\\msys64\\ucrt64\\lib\\gcc\\x86_64-w64-mingw32\\14.1.0\\include-fixed -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\jonat\\Documents\\programmering\\c\\snake\\snake.c",
+  "directory": "C:\\Users\\jonat\\Documents\\programmering\\c\\snake",
+  "command": "C:/msys64/ucrt64/bin/gcc.exe -c C:\\Users\\jonat\\Documents\\programmering\\c\\snake\\snake.c -o C:\\Users\\jonat\\Documents\\programmering\\c\\snake\\snake.c.o -target x86_64-w64-mingw32 -IC:\\msys64\\ucrt64\\include\\c++\\14.1.0 -IC:\\msys64\\ucrt64\\include\\c++\\14.1.0\\x86_64-w64-mingw32 -IC:\\msys64\\ucrt64\\include\\c++\\14.1.0\\backward -IC:\\msys64\\ucrt64\\lib\\gcc\\x86_64-w64-mingw32\\14.1.0\\include -IC:\\msys64\\ucrt64\\include -IC:\\msys64\\ucrt64\\lib\\gcc\\x86_64-w64-mingw32\\14.1.0\\include-fixed -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\jonat\\Documents\\programmering\\c\\snake\\paint.c",
+  "directory": "C:\\Users\\jonat\\Documents\\programmering\\c\\snake",
+  "command": "C:/msys64/ucrt64/bin/gcc.exe -c C:\\Users\\jonat\\Documents\\programmering\\c\\snake\\paint.c -o C:\\Users\\jonat\\Documents\\programmering\\c\\snake\\paint.c.o -target x86_64-w64-mingw32 -IC:\\msys64\\ucrt64\\include\\c++\\14.1.0 -IC:\\msys64\\ucrt64\\include\\c++\\14.1.0\\x86_64-w64-mingw32 -IC:\\msys64\\ucrt64\\include\\c++\\14.1.0\\backward -IC:\\msys64\\ucrt64\\lib\\gcc\\x86_64-w64-mingw32\\14.1.0\\include -IC:\\msys64\\ucrt64\\include -IC:\\msys64\\ucrt64\\lib\\gcc\\x86_64-w64-mingw32\\14.1.0\\include-fixed -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\jonat\\Documents\\programmering\\c\\snake\\snake.h",
+  "directory": "C:\\Users\\jonat\\Documents\\programmering\\c\\snake",
+  "command": "C:/msys64/ucrt64/bin/g++.exe -c C:\\Users\\jonat\\Documents\\programmering\\c\\snake\\snake.h -o C:\\Users\\jonat\\Documents\\programmering\\c\\snake\\snake.h.o -target x86_64-w64-mingw32 -IC:\\msys64\\ucrt64\\include\\c++\\14.1.0 -IC:\\msys64\\ucrt64\\include\\c++\\14.1.0\\x86_64-w64-mingw32 -IC:\\msys64\\ucrt64\\include\\c++\\14.1.0\\backward -IC:\\msys64\\ucrt64\\lib\\gcc\\x86_64-w64-mingw32\\14.1.0\\include -IC:\\msys64\\ucrt64\\include -IC:\\msys64\\ucrt64\\lib\\gcc\\x86_64-w64-mingw32\\14.1.0\\include-fixed -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\jonat\\Documents\\programmering\\c\\snake\\paint.h",
+  "directory": "C:\\Users\\jonat\\Documents\\programmering\\c\\snake",
+  "command": "C:/msys64/ucrt64/bin/g++.exe -c C:\\Users\\jonat\\Documents\\programmering\\c\\snake\\paint.h -o C:\\Users\\jonat\\Documents\\programmering\\c\\snake\\paint.h.o -target x86_64-w64-mingw32 -IC:\\msys64\\ucrt64\\include\\c++\\14.1.0 -IC:\\msys64\\ucrt64\\include\\c++\\14.1.0\\x86_64-w64-mingw32 -IC:\\msys64\\ucrt64\\include\\c++\\14.1.0\\backward -IC:\\msys64\\ucrt64\\lib\\gcc\\x86_64-w64-mingw32\\14.1.0\\include -IC:\\msys64\\ucrt64\\include -IC:\\msys64\\ucrt64\\lib\\gcc\\x86_64-w64-mingw32\\14.1.0\\include-fixed -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\jonat\\Documents\\programmering\\c\\snake\\game.c",
+  "directory": "C:\\Users\\jonat\\Documents\\programmering\\c\\snake",
+  "command": "C:/msys64/ucrt64/bin/gcc.exe -c C:\\Users\\jonat\\Documents\\programmering\\c\\snake\\game.c -o C:\\Users\\jonat\\Documents\\programmering\\c\\snake\\game.c.o -target x86_64-w64-mingw32 -IC:\\msys64\\ucrt64\\include\\c++\\14.1.0 -IC:\\msys64\\ucrt64\\include\\c++\\14.1.0\\x86_64-w64-mingw32 -IC:\\msys64\\ucrt64\\include\\c++\\14.1.0\\backward -IC:\\msys64\\ucrt64\\lib\\gcc\\x86_64-w64-mingw32\\14.1.0\\include -IC:\\msys64\\ucrt64\\include -IC:\\msys64\\ucrt64\\lib\\gcc\\x86_64-w64-mingw32\\14.1.0\\include-fixed -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\jonat\\Documents\\programmering\\c\\snake\\hardware.h",
+  "directory": "C:\\Users\\jonat\\Documents\\programmering\\c\\snake",
+  "command": "C:/msys64/ucrt64/bin/g++.exe -c C:\\Users\\jonat\\Documents\\programmering\\c\\snake\\hardware.h -o C:\\Users\\jonat\\Documents\\programmering\\c\\snake\\hardware.h.o -target x86_64-w64-mingw32 -IC:\\msys64\\ucrt64\\include\\c++\\14.1.0 -IC:\\msys64\\ucrt64\\include\\c++\\14.1.0\\x86_64-w64-mingw32 -IC:\\msys64\\ucrt64\\include\\c++\\14.1.0\\backward -IC:\\msys64\\ucrt64\\lib\\gcc\\x86_64-w64-mingw32\\14.1.0\\include -IC:\\msys64\\ucrt64\\include -IC:\\msys64\\ucrt64\\lib\\gcc\\x86_64-w64-mingw32\\14.1.0\\include-fixed -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\jonat\\Documents\\programmering\\c\\snake\\snake.c",
+  "directory": "C:\\Users\\jonat\\Documents\\programmering\\c\\snake",
+  "command": "C:/msys64/ucrt64/bin/gcc.exe -c C:\\Users\\jonat\\Documents\\programmering\\c\\snake\\snake.c -o C:\\Users\\jonat\\Documents\\programmering\\c\\snake\\snake.c.o -target x86_64-w64-mingw32 -IC:\\msys64\\ucrt64\\include\\c++\\14.1.0 -IC:\\msys64\\ucrt64\\include\\c++\\14.1.0\\x86_64-w64-mingw32 -IC:\\msys64\\ucrt64\\include\\c++\\14.1.0\\backward -IC:\\msys64\\ucrt64\\lib\\gcc\\x86_64-w64-mingw32\\14.1.0\\include -IC:\\msys64\\ucrt64\\include -IC:\\msys64\\ucrt64\\lib\\gcc\\x86_64-w64-mingw32\\14.1.0\\include-fixed -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\jonat\\Documents\\programmering\\c\\snake\\paint.c",
+  "directory": "C:\\Users\\jonat\\Documents\\programmering\\c\\snake",
+  "command": "C:/msys64/ucrt64/bin/gcc.exe -c C:\\Users\\jonat\\Documents\\programmering\\c\\snake\\paint.c -o C:\\Users\\jonat\\Documents\\programmering\\c\\snake\\paint.c.o -target x86_64-w64-mingw32 -IC:\\msys64\\ucrt64\\include\\c++\\14.1.0 -IC:\\msys64\\ucrt64\\include\\c++\\14.1.0\\x86_64-w64-mingw32 -IC:\\msys64\\ucrt64\\include\\c++\\14.1.0\\backward -IC:\\msys64\\ucrt64\\lib\\gcc\\x86_64-w64-mingw32\\14.1.0\\include -IC:\\msys64\\ucrt64\\include -IC:\\msys64\\ucrt64\\lib\\gcc\\x86_64-w64-mingw32\\14.1.0\\include-fixed -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\jonat\\Documents\\programmering\\c\\snake\\snake.h",
+  "directory": "C:\\Users\\jonat\\Documents\\programmering\\c\\snake",
+  "command": "C:/msys64/ucrt64/bin/g++.exe -c C:\\Users\\jonat\\Documents\\programmering\\c\\snake\\snake.h -o C:\\Users\\jonat\\Documents\\programmering\\c\\snake\\snake.h.o -target x86_64-w64-mingw32 -IC:\\msys64\\ucrt64\\include\\c++\\14.1.0 -IC:\\msys64\\ucrt64\\include\\c++\\14.1.0\\x86_64-w64-mingw32 -IC:\\msys64\\ucrt64\\include\\c++\\14.1.0\\backward -IC:\\msys64\\ucrt64\\lib\\gcc\\x86_64-w64-mingw32\\14.1.0\\include -IC:\\msys64\\ucrt64\\include -IC:\\msys64\\ucrt64\\lib\\gcc\\x86_64-w64-mingw32\\14.1.0\\include-fixed -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\jonat\\Documents\\programmering\\c\\snake\\paint.h",
+  "directory": "C:\\Users\\jonat\\Documents\\programmering\\c\\snake",
+  "command": "C:/msys64/ucrt64/bin/g++.exe -c C:\\Users\\jonat\\Documents\\programmering\\c\\snake\\paint.h -o C:\\Users\\jonat\\Documents\\programmering\\c\\snake\\paint.h.o -target x86_64-w64-mingw32 -IC:\\msys64\\ucrt64\\include\\c++\\14.1.0 -IC:\\msys64\\ucrt64\\include\\c++\\14.1.0\\x86_64-w64-mingw32 -IC:\\msys64\\ucrt64\\include\\c++\\14.1.0\\backward -IC:\\msys64\\ucrt64\\lib\\gcc\\x86_64-w64-mingw32\\14.1.0\\include -IC:\\msys64\\ucrt64\\include -IC:\\msys64\\ucrt64\\lib\\gcc\\x86_64-w64-mingw32\\14.1.0\\include-fixed -I. -I.  -g  -O0  -Wall"
+ }]

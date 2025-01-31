@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="snake" Database="" Version="10000">
+  <Project Name="game" Path="game.project" Active="Yes"/>
+  <Project Name="tests" Path="tests.project" Active="No"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Windows">
+      <Environment/>
+      <Project Name="game" ConfigName="Windows"/>
+      <Project Name="tests" ConfigName="Windows"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Linux">
+      <Environment/>
+      <Project Name="game" ConfigName="Linux"/>
+      <Project Name="tests" ConfigName="Linux"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="macOS">
+      <Environment/>
+      <Project Name="game" ConfigName="macOS"/>
+      <Project Name="tests" ConfigName="macOS"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
