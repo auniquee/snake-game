@@ -10,7 +10,7 @@ A simple console-based Snake game implementation in C, created as a school assig
     - Avoid walls and self-collision
     - Eat food (*) to grow and increase score
 
-Features
+## Features
 
     - Basic snake movement mechanics
 
