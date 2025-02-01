@@ -8,7 +8,7 @@ A simple console-based Snake game implementation in C, created as a school assig
 
     - Use arrow keys or WASD to move
     - Avoid walls and self-collision
-    - Eat food (*) to grow and increase score
+    - Eat food (@) to grow and increase score
 
 ## Features
 
